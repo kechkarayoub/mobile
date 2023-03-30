@@ -1,5 +1,6 @@
 healthkools/node_modules/
 .expo/
+.expo-shared/
 healthkools/.expo/
 .idea/
 dist/

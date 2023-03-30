@@ -1,6 +1,7 @@
 import {COLORS, get_country_phone_code_from_number, get_current_languages, get_date_format, 
   get_datetime_format, get_local_number_from_international, get_random_color, get_time_format} from 'src/utils/index';
 import {set} from 'src/Store/locale';
+import { act } from '@testing-library/react-native';
 import moment from "moment";
 
 describe('Get_random_color function', () => {

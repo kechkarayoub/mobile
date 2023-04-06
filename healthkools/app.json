@@ -27,6 +27,9 @@
     },
     "web": {
       "favicon": "./src/assets/favicon.png"
-    }
-  }
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "Healthkools",
+  "name": "Healthkools"
 }
